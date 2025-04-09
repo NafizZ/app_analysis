@@ -6,18 +6,14 @@
 ![GitHub](https://img.shields.io/github/license/marchdev-tk/app_analysis)
 ![GitHub stars](https://img.shields.io/github/stars/marchdev-tk/app_analysis?style=social)
 
-Package that provides an ability to track device stats, including CPU/RAM/Battery/Traffic.
+A Flutter package to analyze your app's performance, resource usage, and gather runtime information like CPU temperature, memory usage, network traffic, and more.
 
 ## Getting Started
 
 `ONLY ANDROID OS IS SUPPORTED!`
 
-# App Analysis
 
-[![pub package](https://img.shields.io/pub/v/app_analysis.svg)](https://pub.dev/packages/app_analysis)
-[![license](https://img.shields.io/github/license/marchdev-tk/app_analysis.svg)](https://github.com/marchdev-tk/app_analysis/blob/main/LICENSE)
 
-A Flutter package to analyze your app's performance, resource usage, and gather runtime information like CPU temperature, memory usage, network traffic, and more.
 
 ---
 
